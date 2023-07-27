@@ -1,0 +1,21 @@
+body {
+  background-color: aquamarine;
+}
+#container__field {
+  border: 2px solid blue;
+}
+
+#container__btn {
+  padding: 4px;
+  background-color: green;
+}
+
+#container__list {
+  list-style-type: none;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
